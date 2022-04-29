@@ -37,11 +37,10 @@ Special thanks to [Dominic Walls ]() for the awesome design, invaluable input, a
 
 - Semantic HTML5 markup
 - Custom CSS components
-- CSS Flex Box
-- CSS Grid
+-
 - [React](https://reactjs.org/)
-- [Styled Components](https://styled-components.com/)
-- [React Sroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro)
+- [material UI](https://styled-components.com/)
+- [React Scroll](https://react-scroll-parallax.damnthat.tv/docs/intro)
 
 ### What I learned
 
