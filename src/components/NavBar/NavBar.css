@@ -62,6 +62,9 @@ a:hover {
 
   /* text-decoration: none; */
 }
+.navbar .active:hover {
+  color: #fbde5c;
+}
 .icons {
   display: flex;
   color: aliceblue;

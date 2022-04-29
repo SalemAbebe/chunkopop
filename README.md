@@ -1,4 +1,4 @@
-# K.A. Construction React Single Page Landing
+# Chunkopop React Single Page Landing
 
 ## Table of contents
 
@@ -14,9 +14,8 @@
 
 ## Overview
 
-This is a desktop website for a mock business called Chunkopop. It was designed and developed to be interactive and engaging in order to hold the attention of users and encourage them to keep exploring. There are little surprises packed into this landing page that will keep you looking for more.
-
-Special thanks to [Dominic Walls ]() for the awesome design, invaluable input, and well organized figma project.
+This is a desktop website for a mock landing page for a business called Chunkopop.
+Special thanks to [Dominic Walls ](UX-UI designer) for the awesome design, invaluable input, and well organized figma project.
 
 ### The challenge
 
