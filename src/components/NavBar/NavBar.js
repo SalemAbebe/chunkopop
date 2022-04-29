@@ -19,7 +19,7 @@ const NavBar = () => {
           >
             <img
               style={{ backgroundColor: "#234670" }}
-              src={process.env.PUBLIC_URL + "Assets/logo.png"}
+              src={process.env.PUBLIC_URL + "/Assets/logo.png"}
               alt="chunkopops"
             />
           </Link>
