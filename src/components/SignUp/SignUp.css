@@ -1,6 +1,6 @@
 #signup {
   background-color: #234670;
-  height: 100vh;
+  height: 110vh;
   position: relative;
   margin-top: 50px;
 }
@@ -17,6 +17,7 @@
   margin: auto;
   left: 124px;
   top: 4346px;
+  object-fit: contain;
   /* border-radius: 12px; */
 }
 .signUpImg img {

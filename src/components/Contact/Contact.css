@@ -3,7 +3,7 @@
   width: 90%;
   height: 100vh;
   margin: auto;
-  margin-top: 40px;
+  margin-top: -20px;
 }
 .contactHeader {
   font-family: Choco Cookies, sans-serif;
@@ -13,7 +13,7 @@
   letter-spacing: 0em;
   text-align: center;
   padding-top: 208px;
-  padding-bottom: 143px;
+  padding-bottom: 100px;
 }
 .contactWrapper {
   display: flex;
