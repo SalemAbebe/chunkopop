@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap");
+
+#hero {
+  transform: translateY(44px);
+  width: 100%;
+}
+
+.heroTxt__1 {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 65px;
+  text-align: left;
+  color: #ffffff;
+  padding-left: 60px;
+}
+.heroTxt__2 {
+  font-family: "Gloria Hallelujah", cursive;
+  color: #fbde5c;
+  width: 640px;
+  margin-top: 70px;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 79px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.heroTxt {
+  transform: translateY(70px);
+  margin: -600px 0 0;
+  align-items: left;
+  padding-left: 175px;
+}
+.shopNow {
+  text-align: center;
+  padding: 14px, 28px, 14px, 28px;
+  margin-top: 135px;
+}
+.shop button {
+  /* align-items: left; */
+  width: 166px;
+  height: 62px;
+  border-radius: 10px;
+  background-color: #fff;
+  border: 1px solid #000;
+  font-size: 16px;
+  color: #000;
+  padding: 14px 20px;
+  font-family: Open Sans;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 0em;
+}
+.shopNow button:hover {
+  cursor: pointer;
+  background-color: #fbde5c;
+  transition: all 0.3s;
+  color: #fff;
+  border-style: none;
+}

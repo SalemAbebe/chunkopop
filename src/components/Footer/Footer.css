@@ -1,0 +1,24 @@
+.footer {
+  background-color: #234670;
+  height: 98px;
+  width: 100%;
+}
+.footerWrapper {
+  display: flex;
+  width: 90%;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+.year {
+  color: #fff;
+  font-size: 24px;
+  font-weight: 400;
+}
+.socialIcons img {
+  padding: 0 5px;
+  cursor: pointer;
+}
+.socialIcons img:hover {
+  transform: scale(1.2);
+}

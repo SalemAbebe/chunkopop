@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# K.A. Construction React Single Page Landing
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of contents
 
-## Available Scripts
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-In the project directory, you can run:
+## Overview
 
-### `npm start`
+This is a desktop website for a mock business called Chunkopop. It was designed and developed to be interactive and engaging in order to hold the attention of users and encourage them to keep exploring. There are little surprises packed into this landing page that will keep you looking for more.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Special thanks to [Dominic Walls ]() for the awesome design, invaluable input, and well organized figma project.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### The challenge
 
-### `npm test`
+- Develop a React landing page designed by one of our fellow UX design apprentices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Designs
 
-### `npm run build`
+[Figma Project Here](https://www.figma.com/proto/Ph859XsugH8n0005TSl18k/Single-Page-Website?page-id=0%3A1&node-id=0%3A1&viewport=241%2C48%2C0.5&scaling=min-zoom&hide-ui=1)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Links
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Solution URL: [https://github.com/SyntheticDesigner/k-a-construction](https://github.com/SyntheticDesigner/k-a-construction)
+- Live Site URL: [https://syntheticdesigner.github.io/k-a-construction/](https://syntheticdesigner.github.io/k-a-construction/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## My process
 
-### `npm run eject`
+### Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Semantic HTML5 markup
+- Custom CSS components
+- CSS Flex Box
+- CSS Grid
+- [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [React Sroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### What I learned
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Working with a good designer can be a great experience. Being able to look at a design together allowing time to ask questions and discuss the functions of certain feature. We were able to quickly work with each other to assemble a design guide that could easily be translated to CSS variable.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Having access to a live figma project takes all the guess work out of sizing elements or typeface. Inspecting elements on figma lets you look at generated code, especially helpful for things like gradients.
 
-## Learn More
+I took the opportunity to learn some new tools. I learned to animate objects based on their appearance in the viewport, but I decided to scap that idea and work with a parallax package. [React Sroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro) was really easy to use once you got use to working with `scrollStart` and `scrollEnd` props. With React Scroll Parallax I was able to add a variety of different animations based on scroll position that really brought the website to life.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Useful resources
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [React Sroll Parallax](https://react-scroll-parallax.damnthat.tv/docs/intro)
+- [Trigger Animations on scroll](https://coolcssanimation.com/how-to-trigger-a-css-animation-on-scroll/)
+- [How to animate a flipping card](https://www.youtube.com/watch?v=y_6fVz9jPWA)
 
-### Code Splitting
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Andrew Schroepfer - Developer
+  - [Website](https://syntheticdesigner.github.io/)
+  - [Linkedin](https://www.linkedin.com/in/andrew-schroepfer/)
+- Klay Simmons - Designer
+  - [Linkedin](https://www.linkedin.com/in/klay-simmons-b82b08221/)

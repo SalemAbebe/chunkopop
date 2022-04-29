@@ -1,0 +1,71 @@
+#signup {
+  background-color: #234670;
+  height: 100vh;
+  position: relative;
+  margin-top: 50px;
+}
+.signUpHeader {
+  color: #fbde5c;
+  padding: 64px 0 40px;
+  font-size: 64px;
+  text-align: center;
+  font-family: Choco Cookies, sans-serif;
+}
+.signUpImg {
+  height: 784px;
+  width: 1191px;
+  margin: auto;
+  left: 124px;
+  top: 4346px;
+  /* border-radius: 12px; */
+}
+.signUpImg img {
+  border-radius: 12px;
+}
+.signUpTxt {
+  color: #fff;
+  height: 195px;
+  width: 421px;
+  position: absolute;
+  top: 367px;
+  right: 160px;
+  text-align: left;
+}
+.signUpTxt p {
+  font-size: 48px;
+  font-weight: 400;
+  font-family: "open sans";
+  margin-bottom: 30px;
+}
+.subscribe form {
+  display: flex;
+  padding: 9px;
+  height: 40px;
+  /* font-family: Open Sans; */
+  font-size: 16px;
+  left: 840px;
+  top: 4769px;
+  border-radius: 2px;
+}
+.subscribe button {
+  padding: 8px 17px;
+  background-color: #234670;
+  font-family: Open Sans;
+  color: #fff;
+  border-style: none;
+  width: 30%;
+  cursor: pointer;
+}
+.subscribe button:hover {
+  background-color: #fbde5c;
+  color: #fff;
+  font-size: 20px;
+}
+.subscribe input {
+  height: 17px;
+  width: 70%;
+  left: 20px;
+  top: 11px;
+  padding: 11px 16px;
+  border-style: none;
+}

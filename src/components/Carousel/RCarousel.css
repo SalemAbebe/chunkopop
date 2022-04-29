@@ -1,0 +1,21 @@
+.carousel {
+  text-align: center;
+  padding: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.releaseHeader {
+  color: #fbde5c;
+  padding: 64px 0 40px;
+  font-size: 64px;
+  text-align: center;
+  background-color: #234670;
+  font-family: Choco Cookies, sans-serif;
+}
+.carousel img {
+  width: 100%;
+}
+
+#releaseOfTheDay {
+}

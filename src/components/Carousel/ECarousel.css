@@ -1,0 +1,36 @@
+.carousel {
+  text-align: center;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.eventsHeader {
+  color: #fbde5c;
+  padding: 64px 0 40px;
+  font-size: 64px;
+  text-align: center;
+  background-color: #234670;
+  font-family: Choco Cookies, sans-serif;
+}
+.carousel img {
+  width: 861px !important;
+}
+.carousel .MuiSvgIcon-fontSizeMedium {
+  background-color: #fbde5c !important;
+  color: #fff;
+  width: 59.89px !important;
+  height: 97.16px !important;
+  margin: 0 159.37px !important;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: rgba(205, 213, 103, 0.48) 6px 2px 16px 0px,
+    rgba(255, 255, 255, 0.8) -6px -2px 16px 0px !;
+}
+.carousel .MuiSvgIcon-fontSizeMedium:hover {
+  box-shadow: rgba(96, 134, 168, 0.48) 6px 2px 16px 0px,
+    rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+  background-color: #234670 !important;
+}
+#events {
+}
