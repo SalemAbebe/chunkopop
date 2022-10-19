@@ -44,7 +44,6 @@ Special thanks to [Dominic Walls ](UX-UI designer) for the awesome design, inval
 
 - Semantic HTML5 markup
 - Custom CSS components
--
 - [React](https://reactjs.org/)
 - [material UI](https://styled-components.com/)
 - [React Scroll](https://react-scroll-parallax.damnthat.tv/docs/intro)
